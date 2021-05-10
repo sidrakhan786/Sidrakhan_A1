@@ -1,0 +1,17 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha e2e.test.js --timeout 60000"
+  },
+  "devDependencies": {
+    "mocha": "8.2.1",
+    "chai": "4.2.0",
+    "puppeteer": "5.4.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
